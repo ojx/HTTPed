@@ -1,0 +1,14 @@
+# Syntax Coloring Map For HTTPed
+
+# Datatypes (KEYWORD1)
+HTTPed  KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+connectWifi KEYWORD2
+httpRequest KEYWORD2
+httpProcess KEYWORD2
+
+# Instances (KEYWORD2)
+HTTPResponse  KEYWORD2
+
+# Constants (LITERAL1)
